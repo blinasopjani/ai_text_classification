@@ -2,7 +2,9 @@
 
 This project is a **machine learning text classification API** built with **FastAPI**.  
 It uses a trained **Logistic Regression model** with **TF-IDF features** to classify input text into categories.  
+
 This project includes a **Jupyter Notebook** that demonstrates the full AI text classification workflow:
+
 
 ### Notebook Features
 
