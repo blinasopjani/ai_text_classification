@@ -87,7 +87,7 @@ Content-Type: application/json
 
 ---
 
-##  (Optional) Deploy on Render
+## Deploy on Render
 
 This project can also be deployed on [Render](https://render.com).  
 
